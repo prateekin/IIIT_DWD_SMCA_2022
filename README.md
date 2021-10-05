@@ -1,1 +1,2 @@
-# IIIT_DWD_SMCA_2022
+# IIITDWD-EventDesign
+Website Design for International Conference
