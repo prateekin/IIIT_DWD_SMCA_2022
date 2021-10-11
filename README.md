@@ -1,2 +1,2 @@
 # IIITDWD-EventDesign
-Website Design for International Conference
+This website is made for the SMCA'2022 conference organized by Indian Institute of Information Technology Dharwad 
